@@ -8,4 +8,7 @@
 - Text Generation with Markov Chains: An Introduction to using Markovify: https://towardsdatascience.com/text-generation-with-markov-chains-an-introduction-to-using-markovify-742e6680dc33
 - Markov Models for NLP, an Introduction: http://members.unine.ch/jacques.savoy/lectures/SemCL/MarkovCL.pdf
 - Visualising Markov Chains with NetworkX: https://vknight.org/unpeudemath/code/2015/11/15/Visualising-markov-chains.html
-- 
+- Markov Models From The Bottom Up, with Python: https://ericmjl.github.io/essays-on-data-science/machine-learning/markov-models/
+- How to implement a Markov Chain in python for a squared spatial grid?: https://stackoverflow.com/questions/76534407/how-to-implement-a-markov-chain-in-python-for-a-squared-spatial-grid
+- Implementing Markov Chain in Python: https://www.gaussianwaves.com/2022/03/implementing-markov-chain-in-python/
+- Text Generation with Markov Chains in Python: https://ai.plainenglish.io/text-generation-with-markov-chains-in-python-da8a9d08f99d
