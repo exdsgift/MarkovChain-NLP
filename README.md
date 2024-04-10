@@ -1,2 +1,2 @@
-# MarkovChain_NLP
-Build a rudimental NLP on pure statistic model
+# Markov Chain Language Model
+Build a rudimental NLP on pure statistic Markov model
