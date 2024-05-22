@@ -5,6 +5,8 @@ Build a rudimental NLP on pure statistic Markov model
 - txt_files : folder that contains .txt files to test the model
 - note.md : bibliography
 ### Notebook's graphs:
+Transition graphs
+
 ![Pointers](https://github.com/exdsgift/MarkovChain_NLP/blob/main/images/pointers.png)
 
 ![wordweb](https://github.com/exdsgift/MarkovChain_NLP/blob/main/images/words_web.png)
